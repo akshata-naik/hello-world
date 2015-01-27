@@ -1,2 +1,3 @@
 # hello-world
-Just a trial Repo
+Just a trial Repo. 
+Closing issue 
